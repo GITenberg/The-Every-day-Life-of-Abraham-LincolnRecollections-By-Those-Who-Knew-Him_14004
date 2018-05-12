@@ -1,0 +1,36 @@
+_repo: The-Every-day-Life-of-Abraham-LincolnRecollections-By-Those-Who-Knew-Him_14004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Francis F. (Francis Fisher)
+    alias: Browne, Francis Fisher
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '5326'
+    url: http://www.gutenberg.org/2009/agents/5326
+description: ''
+gutenberg_bookshelf:
+- Biographies
+- US Civil War
+gutenberg_issued: '2004-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14004'
+  lccn: '52052869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'Presidents -- United States -- Biography'
+title: 'The Every-day Life of Abraham Lincoln
+
+  A Narrative And Descriptive Biography With Pen-Pictures And Personal
+
+  Recollections By Those Who Knew Him'
+url: http://www.gutenberg.org/ebooks/14004
